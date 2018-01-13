@@ -28,7 +28,6 @@ applications for developers, technical experts and analysts.
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) - baseline
 knowledge of security considerations for intermediate Solidity programmers.
 Maintained by ConsenSys Diligence, and the broader Ethereum community. 
-
 - [Dapps for Beginners](https://dappsforbeginners.wordpress.com) - Tutorial on building DApps on Ethereum.
 
 ## License

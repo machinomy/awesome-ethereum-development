@@ -8,7 +8,7 @@ Human description TBD. Suggestions are welcome.
 
 - [Books](#books)
 - [Courses](#courses)
-- [Blog posts and web pages](#web)
+- [Web Pages](#web-pages)
 
 ## Books
 
@@ -19,11 +19,11 @@ and building DApps.
 
 ## Courses
 
-- [Zastring](https://zastrin.com) - Ethereum blockchain programming through real-world projects.
+- [Zastrin](https://zastrin.com) - Ethereum blockchain programming through real-world projects.
 - [B9lab Academy](https://academy.b9lab.com) - Online training in blockchain and decentralised
 applications for developers, technical experts and analysts.
 
-## Blog posts and web pages
+## Web Pages
 
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) - baseline
 knowledge of security considerations for intermediate Solidity programmers.

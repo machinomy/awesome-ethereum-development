@@ -16,6 +16,7 @@ Human description TBD. Suggestions are welcome.
 decentralized applications on the Ethereum blockchain.
 - [Introducing Ethereum and Solidity](https://www.apress.com/us/book/9781484225349) - Basics of Solidity programming,
 and building DApps.
+- [Ethereum Development with Go](https://goethereumbook.org/) - Guide for developing DApps on Ethereum with Golang.
 
 ## Courses
 
@@ -27,7 +28,7 @@ applications for developers, technical experts and analysts.
 
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) - baseline
 knowledge of security considerations for intermediate Solidity programmers.
-Maintained by ConsenSys Diligence, and the broader Ethereum community. 
+Maintained by ConsenSys Diligence, and the broader Ethereum community.
 - [Dapps for Beginners](https://dappsforbeginners.wordpress.com) - Tutorial on building DApps on Ethereum.
 
 ## License
